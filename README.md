@@ -1,0 +1,2 @@
+# bootcamp
+Second Life Start
